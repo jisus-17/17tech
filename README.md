@@ -1,6 +1,8 @@
 Proyecto principal https://github.com/jisus-17/17tech - Jisus17
+# Hola!!  
+## Soy Jesús, CEO y fundador de 17tech
 
-## Soy Jesús, tengo habidad en diseño y desarrollo de robótica e Iot además soy desarrollador fullstack con experiencia en:
+#### Proximamente habrá mucho más movimiento en este repositorio pero mientras tanto ve a por un cafe y preparate para disfrutar de una gran tarde de programación
 <!--
 ### Apartados:
 <!--

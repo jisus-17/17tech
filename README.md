@@ -1,21 +1,21 @@
 Proyecto principal https://github.com/jisus-17/17tech - Jisus17
 
 ## Soy Jesús, tengo habidad en diseño y desarrollo de robótica e Iot además soy desarrollador fullstack con experiencia en:
-
+<!--
 ### Apartados:
-
+<!--
 * Backend↴
   * NodeJS ◉◉◉◉◉
   * DJango ◉◉◉◉
   * ASP .NET ◉◉◉
   * PHP ◉◉
   * Flask ◉
-  
+<!--  
 * Bases de datos↴
   * MongoDB ◉◉◉◉
   * MySQL ◉◉
   * SQLsever ◉
-  
+<!--  
 * Frontend-Web↴
   * Html 5 ◉◉◉◉◉
   * CSS 3 ◉◉◉◉
@@ -24,7 +24,7 @@ Proyecto principal https://github.com/jisus-17/17tech - Jisus17
   * Vue ◉◉
   * Angular ◉◉
   * Bootstrap ◉
-  
+<!--  
 * Frontend-Mobile↴ 
   * Android nativo
     * Kotlin ◉◉◉◉
@@ -35,9 +35,9 @@ Proyecto principal https://github.com/jisus-17/17tech - Jisus17
     * Xamarin ◉◉◉◉
     * React Native ◉◉◉
     * Fluter ◉◉◉
-
+<!--
 ### Lenguajes:
-
+<!--
 * Multipropósito
   * C# ◉◉◉◉◉
   * Python ◉◉◉◉◉
@@ -55,5 +55,5 @@ Proyecto principal https://github.com/jisus-17/17tech - Jisus17
   * Markdown ◉◉◉◉
   * CSS ◉◉◉◉
   * XML ◉◉
-
+<!--
 *Indice de habilidades* *Profesional - ◉◉◉◉◉ Avanzado - ◉◉◉◉ Medio - ◉◉◉ Novato - ◉◉ Uso mínimo - ◉*
